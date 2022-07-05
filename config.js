@@ -14,8 +14,8 @@ global.APIKeys = {
 // Other
 global.namabot = ['ArullBotzMD']
 global.namaowner = ['ArullOfc']
-global.owner = ['6285822347348']
-global.premium = ['6285822347348']
+global.owner = ['6281917280038']
+global.premium = ['6281917280038']
 global.packname = 'Sticker By'
 global.author = 'ArullOfc'
 global.sessionName = 'zxyn'
